@@ -66,7 +66,7 @@ public class CalculatorUI  {
         buttonPanel.setBorder(BorderFactory.createEmptyBorder(10, 0, 0, 0)); // отступы снизу и по бокам
         
         // Единый размер для кнопок
-        Dimension buttonSize = new Dimension(50, 35);
+        Dimension buttonSize = new Dimension(50, 50);
         JButton[] buttons = {	but1, 		but2,  but3,  butadd, 
         						but4, 		but5,  but6,  butsub,
         						but7, 		but8,  but9,  butmulti, 
